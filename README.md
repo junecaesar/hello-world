@@ -1,2 +1,2 @@
 # hello-world
-a brief instrunction of hello-world in GIT
+a brief instrunction of haha-world in GIT  world
